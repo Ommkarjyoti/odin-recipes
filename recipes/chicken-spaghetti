@@ -11,6 +11,17 @@
         <!-- here should be description of the dish in 1 or 2 paragraphs -->
         <p>This chicken spaghetti recipe is quick and easy to make.</p>
         <p>This dish has a wonderful Southern snap and yet is smooth and hearty!</p>
+        <!-- here should be an unordered list of ingredients -->
+        <h2>Ingredients</h2>
+        <ul>
+            <li>One (twelve ounce) package angel hair pasta</li>
+            <li>Two cups chopped cooked chicken breast</li>
+            <li>One (ten and three fourth ounce) can condensed cream of chicken soup</li>
+            <li>One (ten ounce) can diced tomatoes with green chile peppers</li>
+            <li>Three fourth (eight ounce) package processed cheese, cubed</li>
+            <li>Half (four ounce) jar sliced mushrooms, drained</li>
+            <li>Salt and pepper to taste</li>
+        </ul>
         
     </body>
 </html>
