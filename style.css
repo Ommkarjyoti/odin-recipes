@@ -18,3 +18,9 @@ h3
   background-color: bisque;
   color: maroon;
 }
+
+.list {
+    background-color: whitesmoke;
+    color: maroon;
+    text-align: center;
+}
