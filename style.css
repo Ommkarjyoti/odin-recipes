@@ -5,7 +5,8 @@
 
 h1
  {
-    font-family: monospace;
+    
+    font-family: monospace , Courier ;
     text-align: center;
     background-color: bisque;
     color: maroon;
@@ -13,7 +14,7 @@ h1
 
 h3
  {
-  font-family: monospace;
+  font-family: monospace , Courier;
   text-align: center;
   background-color: bisque;
   color: maroon;
